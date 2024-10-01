@@ -8,7 +8,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulreis123&show_icons=true&theme=dark) -->
 
-## Cursando bacharelado em ciências da computação (SPTECH)
+## Cursando bacharelado em Ciência da computação (SPTECH)
 <div align="center">
 <img height="150em" src="https://www.sptech.school/assets/images/logos/sptech_logo_negativa_1.png"/>
 </div>
